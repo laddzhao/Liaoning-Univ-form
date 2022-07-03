@@ -4,10 +4,9 @@
 <tr>
 <th colspan=2 >辽宁专科大学名单</th>
 </tr>
-
-
 <tr>
 <td>
+
 <table border="1" align="center">
 <tr><!--第一行-->
 <td colspan=2 valign="top" align="center" bgcolor="#0000ff"><b>辽宁职业学院</b></td><!--一个单元格--><!--valign是文字的上、中、下对齐-->
@@ -21,11 +20,8 @@
 <th colspan=2>http://www.lnvc.cn/</th>
 </tr>
 </table>
+
 </td>
-
-
-
-
 </tr>
 
 </table>
